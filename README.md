@@ -2,7 +2,7 @@
 
 ## Description:
 
-This project is for a weather database. The database records weather forecasts every hour and the average forecast within a day for a given city. This data can be used by climatologists/meteorologists to determine and analyze weather patterns in an area. Weather forecasts can then be sent to news stations to be reported. In the case of extreme weather events (hurricanes, blizzards, flash floods, etc.) advisory warnings are sent to recipients of the city with details of the event as well as instructions on how to act. The recipients that receive advisories are denoted as a Person (individual citizen; human) or as a Centre (establishments that can have lots of people that come and go from the building).
+This is a project I worked on with two other team members as a project for an Introduction to Relational Databases course. This project is for a weather database. The database records weather forecasts every hour and the average forecast within a day for a given city. This data can be used by climatologists/meteorologists to determine and analyze weather patterns in an area. Weather forecasts can then be sent to news stations to be reported. In the case of extreme weather events (hurricanes, blizzards, flash floods, etc.) advisory warnings are sent to recipients of the city with details of the event as well as instructions on how to act. The recipients that receive advisories are denoted as a Person (individual citizen; human) or as a Centre (establishments that can have lots of people that come and go from the building).
 
 ## Database details:
 
@@ -20,4 +20,4 @@ The database provides the following functionality:
 * Search for news stations that broadcast for a given province.
 * Search for news stations that broadcast to cities in a given province.
 
-The project uses the Oracle database. The frontend was made with HTML5 and the backend was made with php to combine the HTML5 elements.
+The project uses MySQL to manage and query a database that is stored into an Oracle collection. The frontend elements were made with HTML5 that would be combined with PHP to communicate between the user's queries to the backend's responses.
