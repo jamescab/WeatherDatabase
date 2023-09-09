@@ -20,7 +20,8 @@ The database provides the following functionality:
 * Search for news stations that broadcast for a given province.
 * Search for news stations that broadcast to cities in a given province.
 
-The ER diagram for the project can be found below:
+## The ER diagram for the project can be found below:
+
 ![ER Diagram](https://github.com/jamescab/WeatherDatabase/blob/dca6883bdf718ec86809dc77dc259503fb949e5b/ERDiagram.png)
 
 
